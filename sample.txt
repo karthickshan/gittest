@@ -6,3 +6,4 @@ buildbot test3
 buildbot test4
 buildbot test5
 buildbot test6
+buildbot test6
