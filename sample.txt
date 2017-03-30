@@ -12,3 +12,4 @@ buildbot test8
 buildbot test21
 buildbot test22
 buildbot test23
+build bot test 25
